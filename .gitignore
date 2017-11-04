@@ -16,6 +16,9 @@
 *.dylib
 *.dll
 
+
+
+
 # Fortran module files
 *.mod
 
@@ -48,6 +51,9 @@ Binaries/*
 
 # Builds
 Build/*
+
+#statercontent
+Content/StarterContent/*
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
