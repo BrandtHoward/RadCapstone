@@ -32,7 +32,9 @@ void UCollectable_Base::TickComponent(float DeltaTime, ELevelTick TickType, FAct
 	// ...
 }
 
-void UCollectable_Base::testOutPut()
+void UCollectable_Base::test()
 {
+	UE_LOG(LogTemp, Warning, TEXT("OUI"));
+
 }
 

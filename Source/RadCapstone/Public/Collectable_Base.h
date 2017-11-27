@@ -16,9 +16,7 @@ public:
 	// Sets default values for this component's properties
 	UCollectable_Base();
 
-	UPROPERTY(EditAnywhere)
-		void testOutPut();
-
+	
 
 protected:
 	// Called when the game starts
@@ -30,7 +28,8 @@ public:
 
 private:
 
-	
+	UFUNCTION(BlueprintCallable)
+	void test();
 		
 	
 };
