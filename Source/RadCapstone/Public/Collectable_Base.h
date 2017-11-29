@@ -6,8 +6,10 @@
 #include "Components/ActorComponent.h"
 #include "Collectable_Base.generated.h"
 
+class ARadGameState;
+UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
 
-UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
+
 class RADCAPSTONE_API UCollectable_Base : public UActorComponent
 {
 	GENERATED_BODY()
@@ -29,7 +31,9 @@ public:
 private:
 
 	UFUNCTION(BlueprintCallable)
-	void test();
+	void test(AGameStateBase* state);
 		
+	AGameStateBase* gameState;
+	 
 	
 };

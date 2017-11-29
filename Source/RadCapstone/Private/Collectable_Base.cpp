@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "Collectable_Base.h"
-
+#include "RadGameState.h"
 
 // Sets default values for this component's properties
 UCollectable_Base::UCollectable_Base()
@@ -19,7 +19,8 @@ void UCollectable_Base::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
+
+	
 	
 }
 
@@ -32,9 +33,17 @@ void UCollectable_Base::TickComponent(float DeltaTime, ELevelTick TickType, FAct
 	// ...
 }
 
-void UCollectable_Base::test()
+void UCollectable_Base::test(AGameStateBase* state)
 {
-	UE_LOG(LogTemp, Warning, TEXT("OUI"));
+	gameState = state;
+
+	if (gameState) {
+		//int32 length = gameState->Coins.length;
+		
+	}
+	else {
+		UE_LOG(LogTemp, Warning, TEXT("Bad"));
+	}
 
 }
 
