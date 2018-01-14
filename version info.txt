@@ -1,0 +1,28 @@
+Update 0.1.4
+
+-added a wall jump, and ledge grab with animations
+
+-Particles for each jump/run were created
+
+-Added the water shader placeholder
+
+-added a wall jump, and ledge grab with animations
+
+-Particles for each jump/run were created
+
+-Added the water shader placeholder
+
+-Neck mode
+
+-Potato Mode
+
+Version 0.1.3
+
+Hub World Boxed out (mostly) - Harbor, city, cliffs
+
+RAD complete - Rigged, Animated, Moveset started (Glide, sprint, double jump)
+
+Ducktor - Rigged, animated
+
+Collectibles - McGuffinites placed
+
