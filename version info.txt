@@ -1,3 +1,46 @@
+Version 0.1.5 (1/15/2018)
+New:
+-Add in Swimming Animation
+
+-Program Swimming (still buggy)
+
+Flesh out Dialogue UI
+
+Changes:
+
+-Add in Switching Portrait for npc
+
+-Fixed Auto Camera
+
+
+-Added swimming placeholder animations
+
+-Added environment particles
+
+-Tweaked existing animations
+
+-Tweaked existing particles
+
+-Started creating Distant Landmarks
+
+-Created Dialogue box artwork
+
+-Cliffside area rebuilt
+
+-Harbor cranes animated
+
+-McGuffinites Placed for testing
+
+-Mountain Landscape added
+
+-Created obstacle course
+
+-Linked obstacle course to hub
+
+-Added Streets and buildings
+
+
+
 Update 0.1.4 (1/14/2018)
 
 -added a wall jump, and ledge grab with animations
