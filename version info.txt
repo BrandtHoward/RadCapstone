@@ -1,5 +1,6 @@
 Version 0.1.6 (1/22/2018)
 New:
+
 -Added Idle Animations
 
 -Added Idle animation props
@@ -10,24 +11,32 @@ New:
 
 -Tweaked Rad Animations
 
-Version 0.1.5 (1/15/2018)
-New:
 -Add in Swimming Animation
 
 -Program Swimming (still buggy)
 
-Flesh out Dialogue UI
+-Flesh out Dialogue UI
 
-Paul:
 -Tweaked Landscape, added another mountain on left side of island.
 
 -Added more to amphitheater island
+
+- Implement softsave for coins and Mcguffinite
+
+
+-Working on Ducktor animation
 
 Changes:
 
 -Add in Switching Portrait for npc
 
 -Fixed Auto Camera
+
+-fix ledge grab
+
+
+
+Version 0.1.5 (1/15/2018)
 
 
 -Added swimming placeholder animations
