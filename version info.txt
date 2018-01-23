@@ -6,6 +6,11 @@ New:
 
 Flesh out Dialogue UI
 
+Paul:
+-Tweaked Landscape, added another mountain on left side of island.
+
+-Added more to amphitheater island
+
 Changes:
 
 -Add in Switching Portrait for npc
