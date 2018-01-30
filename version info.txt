@@ -4,7 +4,7 @@ Version 0.1.6.1 (1/23/2018)
 
 -fixed idle animation
 
-
+-imported rock meshes and textures
 
 
 Version 0.1.6 (1/22/2018)
