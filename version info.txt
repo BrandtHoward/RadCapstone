@@ -1,3 +1,19 @@
+Version 0.1.7 (1/29/2018)
+
+-Finished Ducktor model and animations
+
+-Tweaked Stanley and Redux models
+
+-Tweaked Rad Materials
+
+-Added ancient block platforms
+
+-Rad broke through his shell and achieved what gods struggle to master
+
+-Added old Rad sounds for Jumping and Landing
+
+-Tweaked some particles
+
 Version 0.1.6.1 (1/23/2018)
 
 -Add in Rocks
