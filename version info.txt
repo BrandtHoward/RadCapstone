@@ -2,6 +2,7 @@ Version 0.1.7 (1/29/2018)
 
 
 Changed:
+
 -fixed weird glide bug, wall jump
 
 - fix minor bugs
@@ -23,6 +24,7 @@ Changed:
 -Added old Rad sounds for Jumping and Landing
 
 Add:
+
 -Swimming
 
 -imported rock meshes and textures
