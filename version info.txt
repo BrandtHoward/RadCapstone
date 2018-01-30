@@ -1,13 +1,33 @@
 Version 0.1.7 (1/29/2018)
 
+
 Changed:
 -fixed weird glide bug, wall jump
+
 - fix minor bugs
+
 -update ducktor animation
+
 -working on rad secret 
+
+-Finished Ducktor model and animations
+
+-Tweaked Stanley and Redux models
+
+-Tweaked Rad Materials
+
+-Added ancient block platforms
+
+-Rad broke through his shell and achieved what gods struggle to master
+
+-Added old Rad sounds for Jumping and Landing
+
 Add:
 -Swimming
 
+
+
+-Tweaked some particles
 
 
 Version 0.1.6.1 (1/23/2018)
@@ -15,8 +35,6 @@ Version 0.1.6.1 (1/23/2018)
 -Add in Rocks
 
 -fixed idle animation
-
-
 
 
 Version 0.1.6 (1/22/2018)
