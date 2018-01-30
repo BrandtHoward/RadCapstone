@@ -1,3 +1,15 @@
+Version 0.1.7 (1/29/2018)
+
+Changed:
+-fixed weird glide bug, wall jump
+- fix minor bugs
+-update ducktor animation
+-working on rad secret 
+Add:
+-Swimming
+
+
+
 Version 0.1.6.1 (1/23/2018)
 
 -Add in Rocks
