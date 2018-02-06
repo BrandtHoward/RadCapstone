@@ -1,14 +1,12 @@
+
 Changed:
 
--Rad materials
-
--Ducktor Materials
-
--Redux Materials
-
--General particles
 
 Add:
+
+
+
+New:
 
 -Construction props
 
@@ -23,6 +21,33 @@ Add:
 -Updated UI Elements
 
 -McGuffinite Particles
+
+-Added Palm tree meshes
+
+-Added Rad's Mailbox
+
+-Placed New env props
+
+-Began Day/Night Cycle
+
+-Added new landscape elements (New ground, River-side wall)
+
+Changed:
+
+-Rad materials
+
+-Ducktor Materials
+
+-Redux Materials
+
+-General particles
+
+
+-Finished Beach Cliffside
+
+-Adjusted city roads
+
+
 
 Version 0.1.7 (1/29/2018)
 
