@@ -1,12 +1,7 @@
 
-Changed:
+Version 0.1.8 (2/5/2018)
 
-
-Add:
-
-
-
-New:
+New
 
 -Construction props
 
@@ -32,7 +27,21 @@ New:
 
 -Added new landscape elements (New ground, River-side wall)
 
-Changed:
+- add in objective for the game
+
+- add in Pause Screen
+
+- add in cinematic camera
+
+-add stanley and redux
+
+
+changed
+
+- NPC talking camera change
+
+- Make dialogue letter come out each second
+
 
 -Rad materials
 
@@ -46,6 +55,9 @@ Changed:
 -Finished Beach Cliffside
 
 -Adjusted city roads
+
+
+
 
 
 
@@ -177,6 +189,9 @@ Update 0.1.4 (1/14/2018)
 -Neck mode
 
 -Potato Mode
+
+
+
 
 Version 0.1.3 (1/8/2018)
 
