@@ -1,7 +1,7 @@
 
 Version 0.1.8 (2/5/2018)
 
-New
+New:
 
 -Construction props
 
@@ -36,7 +36,7 @@ New
 -add stanley and redux
 
 
-changed
+Changed
 
 - NPC talking camera change
 
