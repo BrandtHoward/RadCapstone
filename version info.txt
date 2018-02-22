@@ -2,6 +2,12 @@ Version 0.1.9 (2/21/2018)
 
 New:
 
+-Added 4 challenge stages
+
+-Added collectathon quest
+
+-Added in Quest system
+
 -Added Pedestrian
 
 -Added Magic Star Mesh, Materials, and Particles
@@ -11,12 +17,21 @@ New:
 -Started cutscene props
 
 Updated:
+- Fixed weird build issu
+
+-Updated Dialogue system
 
 -Updated Character Texutres: Rad, Stanley, Pedestrian
 
 -Finalized first set of props
 
 -Updated McGuffinite Mesh, Materials, and Particles
+
+
+
+
+
+
 
 Version 0.1.8 (2/5/2018)
 
