@@ -1,3 +1,22 @@
+Version 0.1.9 (2/21/2018)
+
+New:
+
+-Added Pedestrian
+
+-Added Magic Star Mesh, Materials, and Particles
+
+-Imported first set of cafe assets
+
+-Started cutscene props
+
+Updated:
+
+-Updated Character Texutres: Rad, Stanley, Pedestrian
+
+-Finalized first set of props
+
+-Updated McGuffinite Mesh, Materials, and Particles
 
 Version 0.1.8 (2/5/2018)
 
