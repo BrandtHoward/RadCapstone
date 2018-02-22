@@ -2,6 +2,14 @@ Version 0.1.9 (2/21/2018)
 
 New:
 
+-Building props added
+
+-Basic Buildings constructed
+
+-Building materials made
+
+-Landscape adjusted slightly
+
 -Added 4 challenge stages
 
 -Added collectathon quest
@@ -17,6 +25,9 @@ New:
 -Started cutscene props
 
 Updated:
+
+- LOD's created for majority of props (still needs tweaking)
+
 - Fixed weird build issu
 
 -Updated Dialogue system
