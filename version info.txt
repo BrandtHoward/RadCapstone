@@ -1,3 +1,35 @@
+Version 0.2.0 (3/8/2018)
+
+New:
+
+-Added Challenge Level Particles
+
+-Added new Challenge Level Props
+
+-Added more City Props
+
+-Added Telescope
+
+-Added Tug Boat
+
+-Added placeholder Bridge
+
+-Added City Welcome Sign
+
+-Added Mash Mouth enemy
+
+Updated:
+
+-Updated many particles
+
+-Updated Rad UI Hair color
+
+-Updated Pause Screen UI graphics
+
+-Updated Objective names inside the Collection Screen
+
+-Updated mesh collision on multiple meshes
+
 Version 0.1.9 (2/21/2018)
 
 New:
