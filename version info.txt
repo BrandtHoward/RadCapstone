@@ -21,6 +21,12 @@ New:
 
 -Added Mash Mouth enemy
 
+-Added Tower Island rock mesh
+
+-Added beginning of cliff mesh
+
+-Mountain landscape replaced with large rock meshes for consistency sake
+
 Updated:
 -Update Stanley Quest
 
@@ -42,7 +48,7 @@ Updated:
 
 -Updated mesh collision on multiple meshes
 
-
+-High-res rock textures added for mountains
 
 
 Version 0.1.9 (2/21/2018)
