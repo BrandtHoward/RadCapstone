@@ -21,7 +21,7 @@
 		},
 		{
 			"Name": "Designer",
-			"Enabled": false
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
