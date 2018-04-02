@@ -2,6 +2,10 @@
 Version 0.2.2 (4/1/2018)
 
 Added:
+-added in new star grabbing animation
+ - add in 6 new skin
+
+- add secret rad ball transformation
 
 - Added Rad's house
 -Butterfly
@@ -21,6 +25,15 @@ Added:
 -Rad Star Collect Animation
 
 Update Fixed/Change:
+-Fixed Mcguff spawning
+
+-Fixed now when player doesn't grab Mcguffinite from npc the quest will restart
+
+- Fixed cork does animation twice
+
+- fixed mash mouth pushed
+
+
 
 - Laboratory collision fixed
 - Reflection spheres replaced
