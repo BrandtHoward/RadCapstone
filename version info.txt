@@ -1,3 +1,31 @@
+Version 0.2.2 (4/1/2018)
+
+Added:
+
+-Butterfly
+
+-Bunch of Foliage
+
+-Rad Ball
+
+-Legacy Skin
+
+-Fire Escape
+
+-Stairs
+
+-Crane
+
+-Rad Star Collect Animation
+
+Update:
+
+-Whole lotta materials
+
+-Particles
+
+-Rad Animations
+
 Version 0.2.1  (3/19/2018)
 New
 - Add Collected Collectable UI
