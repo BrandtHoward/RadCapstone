@@ -1,3 +1,12 @@
+Version 0.2.2
+New
+- Added Rad's house
+
+Fixed/Change
+- Laboratory collision fixed
+- Reflection spheres replaced
+- Water material tweaking
+
 Version 0.2.1  (3/19/2018)
 New
 - Add Collected Collectable UI
