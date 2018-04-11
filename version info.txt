@@ -1,3 +1,35 @@
+Version 0.2.3 (4/11/2018)
+
+Added:
+-Seagulls
+
+-Opening Cutscene
+
+-Secret Cutscene Part 2
+
+-Wrote more lore and added to the level
+
+-Small crane textures
+
+-Small hook
+
+-Fence
+
+-Wooden Palette
+
+-Building pieces (Air conditioner, fan unit, water tower, chimney)
+
+Updated:
+
+-Iris Textures
+
+-A bunch of particles
+
+-Bridge texture
+
+-Spellchecked text
+
+-Changed some text
 
 Version 0.2.2 (4/1/2018)
 
