@@ -1,3 +1,19 @@
+Version 0.2.3 (4/11/2018)
+Added
+-Rad punches
+
+-Easy Mode
+
+
+Fixed:
+
+-Broken Dialogue
+
+-End scene with multiple ending
+
+-Ducktor quest
+
+
 
 Version 0.2.2 (4/1/2018)
 
