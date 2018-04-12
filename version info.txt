@@ -19,6 +19,10 @@ Added:
 
 -Building pieces (Air conditioner, fan unit, water tower, chimney)
 
+-Large Crane added
+
+-Large Crane Movement programmed in
+
 Updated:
 
 -Iris Textures
@@ -30,6 +34,16 @@ Updated:
 -Spellchecked text
 
 -Changed some text
+
+-Replaced Rocks on Amphitheatre Island
+
+-Rad House Collision
+
+-Fixed Cliffs mesh lightmap unwrap
+
+-vertex painted grass on cliff objects
+
+-Crane blueprints updated/improved
 
 Version 0.2.2 (4/1/2018)
 
