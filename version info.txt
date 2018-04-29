@@ -1,3 +1,84 @@
+Version 0.2.6 (4/29/2018)
+Added:
+
+Changed:
+
+Version 0.2.5 (4/24/2018)
+
+Added:
+-Roads modeled and implemented
+
+-Town grounds modeled and replaced
+
+-Diner modeled and implemented
+
+-Large crane challenge implemented
+
+-Sound effects implemented
+
+-Voice acting dialogue implemented
+
+-Spin attack added
+
+-Added 4th crane to docks
+
+-Graphics quality settings added to pause menu
+
+-shortcut challenge added, camera zooms toward activated shortcut
+
+-Bouncy Ballons added
+
+-Town splines (clotheslines, flags) added
+
+-Town buildings replaced with static meshes, framerate doubled
+
+-ambient sfx added
+
+-Pizza
+
+-Swim timer / UI added
+
+-Redux stereo quest working
+
+-Decorative props added
+
+-Expo mode has challenge level portals
+
+
+Changed:
+-Foliage culling fully functional
+
+-Challenge Level 4 now complete, and much easier than before
+
+-checkpoints adjusted, more visually interesting now
+
+-Pause menu UI adjusted and has sfx now
+
+-Hourglass timer sfx replaced
+
+-Music zone's rebuilt for new layer
+
+-All Out Impulse particle tweaked
+
+-Pizza
+
+-lightmap resolution increased for all meshes
+
+-window collision removed
+
+-Collection quests no longer break eachother
+
+-Diner sign changed to Arcade sign
+
+-BG music fades while collecting Mcguff
+
+-mashmouth range adjusted
+
+-cutscenes tweaked
+
+-Town decorated heavily (more windows, splines, signs, people, pizza, etc.)
+
+-expo mode more functional
 Version 0.2.3 (4/11/2018)
 
 Added:
