@@ -18,9 +18,15 @@ public:
 
 
 		UFUNCTION(BlueprintCallable, Category = "SaveGameFunction")
-		void TestSave();
+		void TestSave(FString input);
 
-	
+		UFUNCTION(BlueprintCallable, Category = "SaveGameFunction")
+			FString ExportTest();
+
+
+private:
+	UPROPERTY(EditAnywhere)
+	FString Testing;
 	
 	
 	

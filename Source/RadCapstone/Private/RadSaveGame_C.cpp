@@ -2,8 +2,13 @@
 
 #include "RadSaveGame_C.h"
 
-void URadSaveGame_C::TestSave()
+void URadSaveGame_C::TestSave(FString input)
 {
-	UE_LOG(LogTemp, Warning, TEXT("This is a message to yourself during runtime!"));
+	Testing = input;
 
+}
+
+FString URadSaveGame_C::ExportTest()
+{
+	return Testing;
 }
