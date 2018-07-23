@@ -117,3 +117,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#Test Level
+Content/Maps/TestRooms/*
