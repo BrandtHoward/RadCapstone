@@ -18,17 +18,20 @@ public:
 
 
 		UFUNCTION(BlueprintCallable, Category = "SaveGameFunction")
-		void TestSave(FString input);
+		void SaveMcGuff(int32 numMcGuff);
 
 		UFUNCTION(BlueprintCallable, Category = "SaveGameFunction")
-			FString ExportTest();
+			int32 LoadMcGuff();
 
 
 private:
 	UPROPERTY(EditAnywhere)
-	FString Testing;
+		int32 collectedMcGuffinite;
 	
-	
+	struct VistabellSave
+	{
+		int32 collectedComicBook;
+	};
 	
 };
 

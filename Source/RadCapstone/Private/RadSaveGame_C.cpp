@@ -2,13 +2,12 @@
 
 #include "RadSaveGame_C.h"
 
-void URadSaveGame_C::TestSave(FString input)
+int32 URadSaveGame_C::LoadMcGuff()
 {
-	Testing = input;
-
+	return collectedMcGuffinite;
 }
 
-FString URadSaveGame_C::ExportTest()
+void URadSaveGame_C::SaveMcGuff(int32 numMcGuff)
 {
-	return Testing;
+	collectedMcGuffinite = numMcGuff;
 }

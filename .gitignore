@@ -120,3 +120,6 @@ $RECYCLE.BIN/
 
 #Test Level
 Content/Maps/TestRooms/*
+
+#BuildMap
+Content/Maps/HubWorld_Test_BuiltData.uasset
