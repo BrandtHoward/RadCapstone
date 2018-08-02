@@ -2,12 +2,9 @@
 
 #include "RadSaveGame_C.h"
 
-int32 URadSaveGame_C::LoadMcGuff()
-{
-	return collectedMcGuffinite;
-}
 
-void URadSaveGame_C::SaveMcGuff(int32 numMcGuff)
-{
-	collectedMcGuffinite = numMcGuff;
+URadSaveGame_C::URadSaveGame_C() {
+
+	collectedCoins = { 0,0,0,0,0,0,0,0 };
+	
 }
