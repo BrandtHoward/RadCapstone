@@ -5,6 +5,6 @@
 
 URadSaveGame_C::URadSaveGame_C() {
 
-	collectedCoins = { 0,0,0,0,0,0,0,0 };
+	collectedCoins = { 10,0,0,0,0,0,0,0 };
 	
 }
