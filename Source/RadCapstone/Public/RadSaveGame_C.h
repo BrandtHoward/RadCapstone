@@ -20,8 +20,12 @@ public:
 public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "cool")
 		TArray<int32> collectedCoins;
+
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "cool")
 	TArray<FTransform> coinTransforms;
+
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "cool")
 		TArray<bool> isCoinCollected;
 
