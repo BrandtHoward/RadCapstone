@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/SaveGame.h"
+#include "WorldInfo_Struct_C.h"
 #include "RadSaveGame_C.generated.h"
 
 /**
@@ -28,6 +29,11 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "cool")
 		TArray<bool> isCoinCollected;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Vistabell")
+
+
+		TArray<FWorldInfo> worldInfo;
 
 private:
 	

@@ -13,5 +13,7 @@ URadSaveGame_C::URadSaveGame_C() {
 	FTransform trans = FTransform(rot, scale, pos);
 
 	coinTransforms.Init(trans, 500);
+
+	
 	
 }
