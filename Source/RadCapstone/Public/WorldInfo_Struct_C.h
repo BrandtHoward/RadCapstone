@@ -20,6 +20,21 @@ struct FWorldInfo {
 		TArray<bool> isCoinCollected;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		TArray<FTransform> CoinLocations;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		int32 numCollectedMcGuffinited;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TArray<bool> isMcguffiniteCollected;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TArray<FTransform> McguffiniteLocations;
+
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		int32 numCollectedComicBook;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TArray<bool> isComicBookCollected;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TArray<FTransform> comicBookLocations;
 };
 
 
