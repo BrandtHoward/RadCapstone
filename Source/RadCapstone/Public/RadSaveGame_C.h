@@ -35,6 +35,12 @@ public:
 
 		TArray<FWorldInfo> worldInfo;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Vistabell")
+		bool easyMode;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Vistabell")
+		int32 RADLevel;
+
 private:
 	
 };

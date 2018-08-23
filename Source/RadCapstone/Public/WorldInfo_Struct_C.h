@@ -10,6 +10,17 @@
  * 
  */
 
+UENUM(BlueprintType)
+enum Chapter {
+	
+	Chapter1 UMETA(DisplayName = "Chapter1"),
+	Chapter2 UMETA(DisplayName = "Chapter2"),
+	Chapter3 UMETA(DisplayName = "Chapter3"),
+	Chapter4 UMETA(DisplayName = "Chapter4"),
+	Chapter5 UMETA(DisplayName = "Chapter5"),
+
+};
+
 USTRUCT(BlueprintType)
 struct FWorldInfo {
 	GENERATED_BODY()
@@ -35,6 +46,7 @@ struct FWorldInfo {
 		TArray<bool> isComicBookCollected;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		TArray<FTransform> comicBookLocations;
+
 };
 
 
