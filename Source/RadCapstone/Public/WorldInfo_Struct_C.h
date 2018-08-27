@@ -47,6 +47,16 @@ struct FWorldInfo {
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		TArray<FTransform> comicBookLocations;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TArray<int32> MAXCOLLECTABLE;
+
+
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TArray<bool> ShortcutUnlock;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TArray<int32> QuestProgressions;
 };
 
 

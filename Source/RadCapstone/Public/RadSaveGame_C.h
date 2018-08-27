@@ -19,6 +19,8 @@ class RADCAPSTONE_API URadSaveGame_C : public USaveGame
 public:
 	URadSaveGame_C();
 public:
+
+	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "cool")
 		TArray<int32> collectedCoins;
 
@@ -30,10 +32,6 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "cool")
 		TArray<bool> isCoinCollected;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Vistabell")
-
-
-		TArray<FWorldInfo> worldInfo;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Vistabell")
 		bool easyMode;
@@ -41,6 +39,8 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Vistabell")
 		int32 RADLevel;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Vistabell")
+		TArray<FWorldInfo> worldInfo;
 private:
 	
 };
